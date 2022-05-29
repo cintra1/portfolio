@@ -789,7 +789,13 @@ margin-bottom: var(--mb-0-75);
   background-color: var(--first-color);
 }
 
+.swiper-button-prev{
+  left: -1rem;
+}
 
+.swiper-button-next{
+  right: -0.3rem;
+}
 /*==================== PROJECT IN MIND ====================*/
 .project{
   text-align: center;
